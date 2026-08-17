@@ -17,12 +17,12 @@ Written for anyone reasonably comfortable with a terminal and basic Linux use. Y
 
 | Part | Covers |
 |---|---|
-| [1 — Planning & Prerequisites](docs/01-planning-and-prerequisites.md) | Hardware reality check, software choices, what you'll need before you start |
-| [2 — Installing Ubuntu Server](docs/02-installing-ubuntu-server.md) | Bootable USB, BIOS/UEFI settings, the OS install itself, first SSH login |
-| [3 — Setting Up Paper](docs/03-setting-up-paper.md) | Java, a dedicated service account, downloading Paper, JVM tuning, first run |
-| [4 — Making It Autonomous](docs/04-automation-and-hardening.md) | systemd, firewall, a fixed local IP, and BIOS gotchas that catch people out |
-| [5 — Going Public](docs/05-going-public.md) | Port forwarding, checking for CGNAT, Dynamic DNS, whitelist, testing the connection |
-| [6 — Maintenance & Troubleshooting](docs/06-maintenance-and-troubleshooting.md) | Backups, updates, a full command reference, and real troubleshooting scenarios |
+| [1 — Planning & Prerequisites](01-planning-and-prerequisites.md) | Hardware reality check, software choices, what you'll need before you start |
+| [2 — Installing Ubuntu Server](02-installing-ubuntu-server.md) | Bootable USB, BIOS/UEFI settings, the OS install itself, first SSH login |
+| [3 — Setting Up Paper](03-setting-up-paper.md) | Java, a dedicated service account, downloading Paper, JVM tuning, first run |
+| [4 — Making It Autonomous](04-automation-and-hardening.md) | systemd, firewall, a fixed local IP, and BIOS gotchas that catch people out |
+| [5 — Going Public](05-going-public.md) | Port forwarding, checking for CGNAT, Dynamic DNS, whitelist, testing the connection |
+| [6 — Maintenance & Troubleshooting](06-maintenance-and-troubleshooting.md) | Backups, updates, a full command reference, and real troubleshooting scenarios |
 
 ## Example hardware used in this guide
 

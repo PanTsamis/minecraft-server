@@ -114,4 +114,4 @@ The server as built is deliberately vanilla-feeling — no plugins required for 
 
 ---
 
-**[Back to the guide index](../README.md)**
+**[Back to the guide index](README.md)**
